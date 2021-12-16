@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Crimson+Pro:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Alata&family=Crimson+Pro:wght@400;500&family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Alata&family=Cinzel&family=Crimson+Pro:wght@400;500&family=Lobster&display=swap');
+.welcome{
+    color:rgb(200, 233, 14);
+    text-align: bottom;
+    padding: 250px;
+    font-family: "Cinzel";
+    padding-left: 200px;
+    font-weight:bolder;
+    font-style:oblique;
+    font-size:large;
+    
+}
+.createcontact{
+    // background-color: rgb(240, 100, 6);
+    border: none;
+   // color: rgb(240, 100, 6);
+    padding: 10px 22px;
+    padding-right: 100px;
+    text-align:justify;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+    //background-color: #008CBA;;
+    
+}
+.scroll{
+    overflow: scroll;
+    height: 750px;
+}
+.material-icons{
+    pointer-events: auto;
+}
+.card-header{
+    background-color: #010616;
+}
+.card-body{
+    background-color: #0f0231;
+}
+.form-control{
+    background-color: black;
+}
+
